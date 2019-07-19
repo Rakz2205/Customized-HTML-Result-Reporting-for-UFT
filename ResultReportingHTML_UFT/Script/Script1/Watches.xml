@@ -1,0 +1,4 @@
+﻿<Properties>
+  <WatchEntry0 value="screenshotFilePath" />
+  <WatchEntry1 value="screenshotFolderName &amp;&quot;\&quot; &amp; strScreenshot" />
+</Properties>
